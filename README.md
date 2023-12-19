@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on completing a full stack coding bootcamp
-🌱 I’m currently learning Java, SQL, HTML, CSS, JavaScript
-👯 I’m looking to collaborate art related coding projects
+🔭 I’m currently working on completing a full stack coding bootcamp/
+🌱 I’m currently learning Java, SQL, HTML, CSS, JavaScript/
+👯 I’m looking to collaborate art related coding projects/
 
 
 
