@@ -1,4 +1,9 @@
 ### Hi there 👋
+🔭 I’m currently working on completing a full stack coding bootcamp
+🌱 I’m currently learning Java, SQL, HTML, CSS, JavaScript
+👯 I’m looking to collaborate art related coding projects
+
+
 
 <!--
 **maestreca/maestreca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
